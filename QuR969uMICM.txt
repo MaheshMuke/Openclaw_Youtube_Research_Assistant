@@ -1,0 +1,271 @@
+[00:12] Let's play a game.
+[00:14] Imagine that you are in Las Vegas,
+[00:17] in a casino,
+[00:19] and you decide to play a game
+[00:19] on one of the casino's computers,
+[00:23] just like you might play
+[00:23] solitaire or chess.
+[00:26] The computer can make moves
+[00:26] in the game, just like a human player.
+[00:30] This is a coin game.
+[00:32] It starts with a coin showing heads,
+[00:35] and the computer will play first.
+[00:37] It can choose to flip the coin or not,
+[00:40] but you don't get to see the outcome.
+[00:43] Next, it's your turn.
+[00:44] You can also choose
+[00:44] to flip the coin or not,
+[00:47] and your move will not be revealed
+[00:47] to your opponent, the computer.
+[00:51] Finally, the computer plays again,
+[00:51] and can flip the coin or not,
+[00:55] and after these three rounds,
+[00:58] the coin is revealed,
+[01:00] and if it is heads, the computer wins,
+[01:03] if it's tails, you win.
+[01:06] So it's a pretty simple game,
+[01:07] and if everybody plays honestly,
+[01:07] and the coin is fair,
+[01:11] then you have a 50 percent chance
+[01:11] of winning this game.
+[01:15] And to confirm that,
+[01:17] I asked my students to play
+[01:17] this game on our computers,
+[01:20] and after many, many tries,
+[01:22] their winning rate ended up
+[01:22] being 50 percent, or close to 50 percent,
+[01:26] as expected.
+[01:28] Sounds like a boring game, right?
+[01:30] But what if you could play this game
+[01:30] on a quantum computer?
+[01:34] Now, Las Vegas casinos
+[01:34] do not have quantum computers,
+[01:37] as far as I know,
+[01:39] but IBM has built
+[01:39] a working quantum computer.
+[01:42] Here it is.
+[01:44] But what is a quantum computer?
+[01:46] Well, quantum physics describes
+[01:49] the behavior of atoms
+[01:49] and fundamental particles,
+[01:53] like electrons and photons.
+[01:55] So a quantum computer operates
+[01:57] by controlling the behavior
+[01:57] of these particles,
+[02:00] but in a way that is completely different
+[02:00] from our regular computers.
+[02:04] So a quantum computer
+[02:04] is not just a more powerful version
+[02:08] of our current computers,
+[02:10] just like a light bulb
+[02:10] is not a more powerful candle.
+[02:14] You cannot build a light bulb
+[02:14] by building better and better candles.
+[02:19] A light bulb is a different technology,
+[02:21] based on deeper scientific understanding.
+[02:23] Similarly, a quantum computer
+[02:23] is a new kind of device,
+[02:27] based on the science of quantum physics,
+[02:30] and just like a light bulb
+[02:30] transformed society,
+[02:33] quantum computers
+[02:33] have the potential to impact
+[02:36] so many aspects of our lives,
+[02:38] including our security needs,
+[02:38] our health care and even the internet.
+[02:42] So companies all around the world
+[02:42] are working to build these devices,
+[02:47] and to see what
+[02:47] the excitement is all about,
+[02:49] let's play our game on a quantum computer.
+[02:52] So I can log into IBM's
+[02:52] quantum computer from right here,
+[02:57] which means I can play the game remotely,
+[03:00] and so can you.
+[03:02] To make this happen, you may remember
+[03:02] getting an email ahead of time, from TED,
+[03:07] asking you whether you would choose
+[03:11] if you played the game.
+[03:13] Well, actually, we asked you to choose
+[03:13] between a circle or a square.
+[03:17] You didn't know it, but your choice
+[03:17] of circle meant "flip the coin,"
+[03:21] and your choice of square
+[03:21] was "don't flip."
+[03:24] We received 372 responses.
+[03:27] Thank you.
+[03:28] That means we can play 372 games
+[03:28] against the quantum computer
+[03:33] using your choices.
+[03:34] And it's a pretty fast game to play,
+[03:37] so I can show you the results right here.
+[03:40] Unfortunately, you didn't do very well.
+[03:42] (Laughter)
+[03:44] The quantum computer won
+[03:44] almost every game.
+[03:48] It lost a few only because
+[03:48] of operational errors in the computer.
+[03:53] So how did it achieve
+[03:53] this amazing winning streak?
+[03:58] It seems like magic or cheating,
+[04:00] but actually, it's just
+[04:00] quantum physics in action.
+[04:03] Here's how it works.
+[04:05] A regular computer simulates
+[04:05] heads or tails of a coin as a bit,
+[04:10] a zero or a one,
+[04:12] or a current flipping on and off
+[04:12] inside your computer chip.
+[04:16] A quantum computer
+[04:16] is completely different.
+[04:19] A quantum bit has a more fluid,
+[04:19] nonbinary identity.
+[04:24] It can exist in a superposition,
+[04:24] or a combination of zero and one,
+[04:30] with some probability of being zero
+[04:30] and some probability of being one.
+[04:35] In other words,
+[04:35] its identity is on a spectrum.
+[04:38] For example, it could have
+[04:38] a 70 percent chance of being zero
+[04:42] and a 30 percent chance of being one
+[04:44] or 80-20 or 60-40.
+[04:49] The possibilities are endless.
+[04:51] The key idea here
+[04:53] is that we have to give up
+[04:53] on precise values of zero and one
+[04:57] and allow for some uncertainty.
+[04:59] So during the game,
+[05:01] the quantum computer creates
+[05:01] this fluid combination of heads and tails,
+[05:06] zero and one,
+[05:07] so that no matter what the player does,
+[05:09] flip or no flip,
+[05:10] the superposition remains intact.
+[05:13] It's kind of like stirring
+[05:13] a mixture of two fluids.
+[05:17] Whether or not you stir,
+[05:17] the fluids remain in a mixture,
+[05:22] but in its final move,
+[05:24] the quantum computer
+[05:24] can unmix the zero and one,
+[05:28] perfectly recovering heads
+[05:28] so that you lose every time.
+[05:34] If you think this is all a bit weird,
+[05:34] you are absolutely right.
+[05:38] Regular coins do not exist
+[05:38] in combinations of heads and tails.
+[05:43] We do not experience
+[05:43] this fluid quantum reality
+[05:47] in our everyday lives.
+[05:49] So if you are confused by quantum,
+[05:51] don't worry, you're getting it.
+[05:56] But even though we don't experience
+[05:56] quantum strangeness,
+[06:00] we can see its very real
+[06:00] effects in action.
+[06:04] You've seen the data for yourself.
+[06:08] because it harnessed
+[06:08] superposition and uncertainty,
+[06:12] and these quantum properties are powerful,
+[06:15] not just to win coin games,
+[06:17] but also to build
+[06:17] future quantum technologies.
+[06:21] So let me give you three examples
+[06:21] of potential applications
+[06:24] that could change our lives.
+[06:27] First of all, quantum uncertainty
+[06:27] could be used to create private keys
+[06:32] for encrypting messages
+[06:32] sent from one location to another
+[06:36] so that hackers could not
+[06:36] secretly copy the key perfectly,
+[06:41] because of quantum uncertainty.
+[06:43] They would have to break
+[06:43] the laws of quantum physics
+[06:47] to hack the key.
+[06:49] So this kind of unbreakable encryption
+[06:49] is already being tested by banks
+[06:54] and other institutions worldwide.
+[06:57] Today, we use more than 17 billion
+[06:57] connected devices globally.
+[07:03] Just imagine the impact quantum encryption
+[07:03] could have in the future.
+[07:08] Secondly, quantum technologies could also
+[07:08] transform health care and medicine.
+[07:14] For example, the design and analysis
+[07:14] of molecules for drug development
+[07:19] is a challenging problem today,
+[07:22] and that's because
+[07:22] exactly describing and calculating
+[07:27] all of the quantum properties
+[07:27] of all the atoms in the molecule
+[07:31] is a computationally difficult task,
+[07:31] even for our supercomputers.
+[07:35] But a quantum computer could do better,
+[07:37] because it operates using
+[07:37] the same quantum properties
+[07:40] as the molecule it's trying to simulate.
+[07:43] So future large-scale quantum
+[07:43] simulations for drug development
+[07:48] could perhaps lead to treatments
+[07:48] for diseases like Alzheimer's,
+[07:51] which affects thousands of lives.
+[07:54] And thirdly, my favorite
+[07:54] quantum application
+[07:57] is teleportation of information
+[07:57] from one location to another
+[08:02] without physically transmitting
+[08:02] the information.
+[08:05] Sounds like sci-fi, but it is possible,
+[08:09] because these fluid identities
+[08:09] of the quantum particles
+[08:13] can get entangled across space and time
+[08:16] in such a way that when you change
+[08:16] something about one particle,
+[08:20] it can impact the other,
+[08:21] and that creates
+[08:21] a channel for teleportation.
+[08:25] It's already been demonstrated
+[08:25] in research labs
+[08:27] and could be part
+[08:27] of a future quantum internet.
+[08:31] We don't have such a network as yet,
+[08:34] but my team is working
+[08:34] on these possibilities,
+[08:37] by simulating a quantum network
+[08:37] on a quantum computer.
+[08:42] So we have designed and implemented
+[08:42] some interesting new protocols
+[08:46] such as teleportation
+[08:46] among different users in the network
+[08:51] and efficient data transmission
+[08:54] and even secure voting.
+[08:56] So it's a lot of fun for me,
+[08:56] being a quantum physicist.
+[08:59] I highly recommend it.
+[09:02] We get to be explorers
+[09:02] in a quantum wonderland.
+[09:05] Who knows what applications
+[09:05] we will discover next.
+[09:09] We must tread carefully and responsibly
+[09:12] as we build our quantum future.
+[09:14] And for me, personally,
+[09:16] I don't see quantum physics as a tool
+[09:16] just to build quantum computers.
+[09:22] I see quantum computers as a way
+[09:22] for us to probe the mysteries of nature
+[09:27] and reveal more about this hidden world
+[09:27] outside of our experiences.
+[09:31] How amazing that we humans,
+[09:33] with our relatively limited
+[09:33] access to the universe,
+[09:36] can still see far beyond our horizons
+[09:39] just using our imagination
+[09:39] and our ingenuity.
+[09:42] And the universe rewards us
+[09:44] by showing us how incredibly
+[09:44] interesting and surprising it is.
+[09:49] The future is fundamentally uncertain,
+[09:52] and to me, that is certainly exciting.
+[09:57] (Applause)
